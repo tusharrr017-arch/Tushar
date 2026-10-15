@@ -1,4 +1,4 @@
-# TUSHAR — THE SERIES
+# TUSHAR — THE PORTFOLIO
 
 A cinematic, streaming-inspired portfolio for **Tushar Lakhani**: full-stack AI engineer in Jaipur.
 Every section is an episode, every project is an Original, and the whole site plays like a series.
